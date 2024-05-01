@@ -368,7 +368,7 @@ textarea.form-field {
   font-size: 1.2rem;
   border-radius: 20px;
   color: #FFF;
-  background-color: rgb(19, 130, 19);
+  background-color: #3a4bdf;
 }
 
 .add-pet-btn svg {
@@ -434,3 +434,5 @@ textarea.form-field {
   padding: 10px 16px;
   margin: 0 0 1rem 0;
 }
+
+/* contact form styles */
